@@ -1,4 +1,4 @@
-Money-PaymentPreparer version 0.02
+Money-PaymentPreparer version 0.03
 ==================================
 
 This module change sum (i.e. payment) to collection of bills and coins
@@ -32,8 +32,9 @@ To install this module type the following:
 
 COPYRIGHT AND LICENCE
 
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself, either Perl version 5.8.4 or,
-at your option, any later version of Perl 5 you may have available.
+Copyright(C) 2004, 2005 by £ukasz M±drzycki, <uksza@cpan.org>.
+
+All rights reserved. This program is free software; you can redistribute it
+and/or modify it under the same terms as Perl itself.
 
 
