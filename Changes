@@ -1,6 +1,6 @@
 Revision history for Perl extension Money::PaymentPreparer.
 
-0.01  Thu Dec 30 11:33:38 2004
-	- original version; created by h2xs 1.23 with options
-		-AX -n Money::PaymentPreparer
+0.02  Thu Dec 30 13:37:01 2004
+	fix upload CPAN error
+
 
